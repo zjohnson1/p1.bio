@@ -1,6 +1,8 @@
 /* Your Website Styles */
 
-
+body{
+	font-family: 'Sniglet', cursive;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
