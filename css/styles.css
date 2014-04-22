@@ -1,9 +1,27 @@
 /* Your Website Styles */
+img.resize{
+	width: 540px;
+	height: auto;
+}
 
 body{
 	font-family: 'Sniglet', cursive;
+	color: #3399FF;
+	background: url('../img/food.png') repeat;
+
 }
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1 {
+	font-size: 2em;
+	letter-spacing: -2px;
+	color: #0066CC;
+}
+
+h2 {
+	font-size: 1.750em;
+	color: #0066CC;
 }
