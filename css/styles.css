@@ -25,3 +25,37 @@ h2 {
 	font-size: 1.750em;
 	color: #0066CC;
 }
+
+a{
+	text-decoration: none;
+}
+
+ul.nav{
+	list-style: none;
+	float: center;
+}
+
+ul.nav li{
+	float: left;
+	margin-right: 40px;
+}
+
+ul.nav li a{
+	color: #FF3300;
+}
+
+#image{
+	padding-top: 10px;
+}
+
+#image img{
+	border: 10px solid #99FFCC;
+	margin-right: 20px 0px 10px 0px;
+}
+
+ul.nav{
+	border-top: 5px solid #990000;
+	padding: 10px 10px;
+	margin: 10px 0px;
+	text-align: left;
+}
